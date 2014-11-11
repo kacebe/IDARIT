@@ -70,7 +70,7 @@ Hilfe zur Steuerung der Darstellung der Vektorlayer:
 - Ändern und Fitlern von Attributwerten, Darstellung und Beschriftung von Objekten anhand der Attributwerte http://vimeo.com/channels/qgisworkshops/85815504
 - http://docs.qgis.org/2.2/de/docs/user_manual/working_with_vector/vector_properties.html
 
-Versuchen Sie, als Abschluss der Übung folgende Abbildung 
+Versuchen Sie, als Abschluss der Übung folgende Abbildung zu erstellen.
 
 
 ![AtlantGIS Ausgrabungsbefunde mit Ergebnissen der Geophysik](https://raw.githubusercontent.com/kacebe/AtlantGIS/master/screenshots/atlantgis_trenches.png "AtlantGIS Ausgrabungsbefunde mit Ergebnissen der Geophysik")
